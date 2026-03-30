@@ -9,4 +9,6 @@
 
   <project path="Linux_for_tegra/tools" name="jetpack-r38_4-tools" />
 
+  <project path="Linux_for_tegra/nv_tools" name="jetpack-r38_4-nv_tools" />
+
 </manifest>
