@@ -5,10 +5,10 @@
 
   <project path="Linux_for_Tegra" name="jetpack-r38_4-L4T_Head" />
   
-  <project path="Linux_for_tegra/rootfs" name="jetpack-r38_4-rootfs" />
+  <project path="Linux_for_Tegra/rootfs" name="jetpack-r38_4-rootfs" />
 
-  <project path="Linux_for_tegra/tools" name="jetpack-r38_4-tools" />
+  <project path="Linux_for_Tegra/tools" name="jetpack-r38_4-tools" />
 
-  <project path="Linux_for_tegra/nv_tools" name="jetpack-r38_4-nv_tools" />
+  <project path="Linux_for_Tegra/nv_tools" name="jetpack-r38_4-nv_tools" />
 
 </manifest>
