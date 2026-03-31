@@ -3,7 +3,7 @@
   <remote name="github" fetch="https://github.com/CheYuT" />
   <default revision="main" remote="github" />
 
-  <project path="Linux_for_tegra" name="jetpack-r38_4-L4T_Head" />
+  <project path="Linux_for_Tegra" name="jetpack-r38_4-L4T_Head" />
   
   <project path="Linux_for_tegra/rootfs" name="jetpack-r38_4-rootfs" />
 
