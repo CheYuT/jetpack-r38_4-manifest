@@ -11,4 +11,6 @@
 
   <project path="Linux_for_Tegra/nv_tools" name="jetpack-r38_4-nv_tools" />
 
+  <project path="Linux_for_Tegra/bootloader" name="jetpack-r38_4-bootloader" />
+
 </manifest>
