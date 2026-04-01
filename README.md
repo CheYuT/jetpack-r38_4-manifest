@@ -51,6 +51,8 @@ ${L4T_RELEASE_PACKAGE} means whole premium packages.
 
 ```$mv ./Linux_for_Tegra/nv_tegra jetpack_workspace/Linux_for_Tegra```
 
+```$cp ./Linux_for_Tegra/bootloader/*.deb jetpack_workspace/Linux_for_Tegra/bootloader/```
+
 ```$sudo tar xpf ${SAMPLE_FS_PACKAGE} -C jetpack_workspace/Linux_for_Tegra/rootfs/```
 
 ```$cd jetpack_workspace/Linux_for_Tegra/```
